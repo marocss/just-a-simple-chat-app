@@ -4,10 +4,10 @@ A simple chat app using firebase as backend.
 
 ---
 
-## Tecnologies
+## Technologies
 
-- React Native
-- Firebase
+* React-Native
+* Firebase
 
 ---
 
